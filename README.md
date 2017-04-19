@@ -3,7 +3,8 @@
 
 环境需要 macos python pythonw WXpython 
 
-安装：在当前文件夹下终端运行
+例如：
+安装：在MacOS文件夹下终端运行
 
 cd lightning
 chmod 777 install.sh
